@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://{https://404-not-found-dev-challenges-delta.vercel.app/}">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://{https://github.com/tjaiyetikolo/404-not-found--devChallenges-/tree/master/404-not-found-master}">
       Solution
     </a>
     <span> | </span>
